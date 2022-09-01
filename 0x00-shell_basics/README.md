@@ -1,1 +1,1 @@
-#!/bin/bash cd /home
+#!/bin/bash ls -l
