@@ -1,1 +1,1 @@
-#!/bin/bash pwd
+#1/bin/bash ls
