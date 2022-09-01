@@ -1,1 +1,1 @@
-print user
+print group of user
