@@ -1,1 +1,1 @@
-directories
+mkdir
